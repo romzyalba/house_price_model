@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5111d4e1998442308651b0d071a688dd/artifacts
+end_time: 1748091718599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5111d4e1998442308651b0d071a688dd
+run_name: XGBoost_House_Price_Pipeline
+run_uuid: 5111d4e1998442308651b0d071a688dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748091711373
+status: 4
+tags: []
+user_id: fawza
