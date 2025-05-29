@@ -1,0 +1,22 @@
+[
+  {
+    "feature":"building_area",
+    "importance":588825.6875
+  },
+  {
+    "feature":"location",
+    "importance":323557.5625
+  },
+  {
+    "feature":"bathroom",
+    "importance":307106.78125
+  },
+  {
+    "feature":"bedroom",
+    "importance":273875.59375
+  },
+  {
+    "feature":"land_area",
+    "importance":229649.1875
+  }
+]
