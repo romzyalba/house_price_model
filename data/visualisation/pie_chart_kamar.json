@@ -1,0 +1,35 @@
+{
+  "label_bathrooms": [
+    1,
+    2,
+    3
+  ],
+  "count_bathrooms": [
+    7586,
+    8514,
+    3321
+  ],
+  "percentage_bathrooms": [
+    39.06,
+    43.84,
+    17.1
+  ],
+  "label_bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "count_bedrooms": [
+    420,
+    7622,
+    8726,
+    2653
+  ],
+  "percentage_bedrooms": [
+    2.16,
+    39.25,
+    44.93,
+    13.66
+  ]
+}

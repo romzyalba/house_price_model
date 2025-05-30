@@ -1,0 +1,30 @@
+{
+  "label_top5": [
+    "Manyar, Surabaya",
+    "Pakuwon Indah, Surabaya",
+    "Dharma Husada, Surabaya",
+    "Sutorejo, Surabaya",
+    "Graha, Surabaya"
+  ],
+  "value_top5": [
+    1654.5049504950496,
+    1691.111111111111,
+    1719.468085106383,
+    1728.299319727891,
+    1806.1538461538462
+  ],
+  "label_bottom5": [
+    "Wringinanom, Gresik",
+    "Kedamean, Gresik",
+    "Prambon, Sidoarjo",
+    "Cerme, Gresik",
+    "Wonoayu, Sidoarjo"
+  ],
+  "value_bottom5": [
+    324.72727272727275,
+    348.3333333333333,
+    403.0625,
+    426.2241379310345,
+    515.8115942028985
+  ]
+}
